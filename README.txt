@@ -1,4 +1,4 @@
-#Compiler optimization using AI
+# Compiler optimization using AI
 
 Project by Mairaj Khalid, student ID: 20019274
 For King's College London Computer science with intelligent systems BS.c final year project 2022-2023
