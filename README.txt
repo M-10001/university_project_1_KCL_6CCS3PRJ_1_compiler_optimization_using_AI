@@ -1,14 +1,15 @@
-Compiler optimization using AI
+#Compiler optimization using AI
+
 Project by Mairaj Khalid, student ID: 20019274
 For King's College London Computer science with intelligent systems BS.c final year project 2022-2023
 
 ------------------------------
 
-// Project files/folders:
+## Project files/folders:
 
 ------------------------------
 
-// Items included are:
+## Items included are:
 
 - main.cpp // Main source file.
 - include // Folder with any needed include files for compilation.
@@ -20,7 +21,7 @@ For King's College London Computer science with intelligent systems BS.c final y
 
 ------------------------------
 
-// Programs the project was built using and how the project was built:
+## Programs the project was built using and how the project was built:
 
 ------------------------------
 
@@ -51,11 +52,11 @@ to enable it).
 acted as a bridge between Python and C++ to use matplotlib and numpy.
 - 11: Python version 3.8.10 was used for its matplotlib and numpy for plotting graphs only.
 
-// Note: Python and matplotlibcpp are NOT needed for current state of project, unless enabling plotting.
+## Note: Python and matplotlibcpp are NOT needed for current state of project, unless enabling plotting.
 
 ------------------------------
 
-// Installation requirements:
+## Installation requirements:
 
 ------------------------------
 
@@ -64,7 +65,7 @@ acted as a bridge between Python and C++ to use matplotlib and numpy.
 
 ------------------------------
 
-// Compiling source code:
+## Compiling source code:
 
 ------------------------------
 
@@ -74,17 +75,17 @@ g++ -O3 -std=c++11 main.cpp -o program
 
 ------------------------------
 
-// Running program:
+## Running program:
 
 ------------------------------
 
-// Inputs:
+## Inputs:
 
 - 1: If completed "Installation requirements" and "Compiling source code" sections, execute program.exe.
 - 2: Input compilation command you wish to optimize for when prompted (See "Running with test cases section" for getting pre-set commands).
 - 3: Input location of executable created on compilation when prompted (See "Running with test cases section" for getting pre-set locations).
 
-// Note: Executing program.exe should work on Windows 10 (if not then see "Compiling source code" section).
+## Note: Executing program.exe should work on Windows 10 (if not then see "Compiling source code" section).
 
 Outputs:
 
@@ -99,7 +100,7 @@ Outputs:
 
 ------------------------------
 
-// Running with test cases:
+## Running with test cases:
 
 ------------------------------
 
@@ -112,7 +113,7 @@ not set up (though current ones should be enough).
 
 ------------------------------
 
-// Changing variable values to modify algorithm:
+## Changing variable values to modify algorithm:
 
 ------------------------------
 
@@ -122,7 +123,7 @@ not set up (though current ones should be enough).
 
 ------------------------------
 
-// Extra file information:
+## Extra file information:
 
 ------------------------------
 
@@ -134,7 +135,7 @@ is only for the user, and will not be used by the program.
 
 ------------------------------
 
-// Enabling plotting:
+## Enabling plotting:
 
 ------------------------------
 
