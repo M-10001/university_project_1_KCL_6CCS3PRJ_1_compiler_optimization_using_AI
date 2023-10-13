@@ -52,7 +52,7 @@ to enable it).
 acted as a bridge between Python and C++ to use matplotlib and numpy.
 - 11: Python version 3.8.10 was used for its matplotlib and numpy for plotting graphs only.
 
-#### Note: Python and matplotlibcpp are NOT needed for current state of project, unless enabling plotting.
+Note: Python and matplotlibcpp are NOT needed for current state of project, unless enabling plotting.
 
 ------------------------------
 
@@ -85,7 +85,7 @@ g++ -O3 -std=c++11 main.cpp -o program
 - 2: Input compilation command you wish to optimize for when prompted (See "Running with test cases section" for getting pre-set commands).
 - 3: Input location of executable created on compilation when prompted (See "Running with test cases section" for getting pre-set locations).
 
-#### Note: Executing program.exe should work on Windows 10 (if not then see "Compiling source code" section).
+Note: Executing program.exe should work on Windows 10 (if not then see "Compiling source code" section).
 
 Outputs:
 
@@ -108,7 +108,7 @@ Outputs:
 - 2: Note the that a compilation command has a matching output executable file path noted lower.
 - 3: Based on your selection use those as inputs for the "Inputs" section of "Running program.exe" section.
 
-### Note: There are other test cases available to test against inside test_programs folder, but their compilation command and matching output file paths are not set up (though current ones should be enough).
+Note: There are other test cases available to test against inside test_programs folder, but their compilation command and matching output file paths are not set up (though current ones should be enough).
 
 ------------------------------
 
