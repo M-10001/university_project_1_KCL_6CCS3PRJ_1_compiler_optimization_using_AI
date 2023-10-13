@@ -52,7 +52,7 @@ to enable it).
 acted as a bridge between Python and C++ to use matplotlib and numpy.
 - 11: Python version 3.8.10 was used for its matplotlib and numpy for plotting graphs only.
 
-## Note: Python and matplotlibcpp are NOT needed for current state of project, unless enabling plotting.
+### Note: Python and matplotlibcpp are NOT needed for current state of project, unless enabling plotting.
 
 ------------------------------
 
