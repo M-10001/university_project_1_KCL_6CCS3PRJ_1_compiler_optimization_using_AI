@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="program" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/program" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=gnu++11" />
+					<Add option="-g" />
+					<Add directory="C:/Users/maira/AppData/Local/Programs/Python/Python38/include" />
+					<Add directory="C:/Users/maira/AppData/Local/Programs/Python/Python38/Lib/site-packages/numpy/core/include" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-lpython38" />
+					<Add directory="C:/Users/maira/AppData/Local/Programs/Python/Python38/libs" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="README.txt" />
+		<Unit filename="compilation_commands_for_test_cases.txt" />
+		<Unit filename="compiler_optimization_flags_information.csv">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="compiler_optimization_flags_information_not_used.txt">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

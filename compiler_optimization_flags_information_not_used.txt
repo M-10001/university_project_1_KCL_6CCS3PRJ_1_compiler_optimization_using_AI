@@ -1,0 +1,21 @@
+-fauto-profile // Needs sampling file for selecting optimization flags, which is not needed, also file not available.
+-ffp-contract // Used // only fast and off style of it is used, since on is not implemented.
+-finline-limit // Needs input integer variable.
+-fprofile-use // Needs sampling file for selecting optimization flags, which is not needed, also file not available.
+-fsched-stalled-insns-dep // Needs input integer variable, also unpredictable.
+-fsched-stalled-insns // Needs input integer variable, also possible incorrect output.
+-ftree-parallelize-loops // Needs input integer variable.
+-fexcess-precision // Possible incorrect output.
+-ffast-math // Possible incorrect output.
+-fno-math-errno // Possible incorrect output.
+-ffinite-math-only // Possible incorrect output.
+-funsafe-math-optimizations // Possible incorrect output.
+-frounding-math // Possible incorrect output.
+-fno-trapping-math // Possible incorrect output.
+-fsignaling-nans // Possible incorrect output.
+-fassociative-math // Possible incorrect output.
+-fwpa // Not a flag in current gcc version.
+-fdelayed-branch // Not supported on current machine.
+-freorder-blocks-and-partition // not supported on current architecture.
+-fsection-anchors // Not supported on current version.
+-fwhole-program // Needs whole program to be in one compilation unit.

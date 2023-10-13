@@ -1,0 +1,41 @@
+------------------------------
+
+// Compilation commands:
+
+------------------------------
+
+// Basic math (small then large):
+gcc -static -w -I./test_programs/automotive/basicmath/ ./test_programs/automotive/basicmath/basicmath_small.c ./test_programs/automotive/basicmath/rad2deg.c ./test_programs/automotive/basicmath/cubic.c ./test_programs/automotive/basicmath/isqrt.c -o ./test_programs/automotive/basicmath/basicmath_small -lm
+gcc -static -w -I./test_programs/automotive/basicmath/ ./test_programs/automotive/basicmath/basicmath_large.c ./test_programs/automotive/basicmath/rad2deg.c ./test_programs/automotive/basicmath/cubic.c ./test_programs/automotive/basicmath/isqrt.c -o ./test_programs/automotive/basicmath/basicmath_large -lm
+
+// Dijkstra (small then large):
+gcc -static -w -I./test_programs/network/dijkstra/ ./test_programs/network/dijkstra/dijkstra_small.c -o ./test_programs/network/dijkstra/dijkstra_small
+gcc -static -w -I./test_programs/network/dijkstra/ ./test_programs/network/dijkstra/dijkstra_large.c -o ./test_programs/network/dijkstra/dijkstra_large
+
+// String search (small then large):
+gcc -static -w -I./test_programs/office/stringsearch/ ./test_programs/office/stringsearch/bmhasrch.c  ./test_programs/office/stringsearch/bmhisrch.c  ./test_programs/office/stringsearch/bmhsrch.c  ./test_programs/office/stringsearch/pbmsrch_small.c -o ./test_programs/office/stringsearch/search_small
+gcc -static -w -I./test_programs/office/stringsearch/ ./test_programs/office/stringsearch/bmhasrch.c  ./test_programs/office/stringsearch/bmhisrch.c  ./test_programs/office/stringsearch/bmhsrch.c  ./test_programs/office/stringsearch/pbmsrch_large.c -o ./test_programs/office/stringsearch/search_large
+
+// CRC32:
+gcc -static -w -I./test_programs/telecomm/CRC32/ ./test_programs/telecomm/CRC32/crc_32.c -o ./test_programs/telecomm/CRC32/crc
+
+------------------------------
+
+// Output file paths with inputs:
+
+------------------------------
+
+// Basic math (small then large):
+.\test_programs\automotive\basicmath\basicmath_small
+.\test_programs\automotive\basicmath\basicmath_large
+
+// Dijkstra (small then large):
+.\test_programs\network\dijkstra\dijkstra_small input.dat
+.\test_programs\network\dijkstra\dijkstra_large input.dat
+
+// String search (small then large):
+.\test_programs\office\stringsearch\search_small
+.\test_programs\office\stringsearch\search_large
+
+// CRC32:
+.\test_programs\telecomm\CRC32\crc

@@ -1,0 +1,406 @@
+# depslib dependency file v1.0
+1680762898 source:c:\users\maira\documents\kcl coursework\6ccs3prj\program\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	<chrono>
+	<cmath>
+	<unordered_map>
+	"matplotlibcpp.h"
+
+1136930338 c:\users\maira\documents\kcl coursework\6ccs3prj\program\include\koolplot.h
+	"Plotstream.h"
+
+1120722562 c:\users\maira\documents\kcl coursework\6ccs3prj\program\include\plotstream.h
+	<graphics.h>
+	"PlotData.h"
+
+1680280096 c:\users\maira\documents\kcl coursework\6ccs3prj\program\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1151518450 c:\users\maira\documents\kcl coursework\6ccs3prj\program\include\plotdata.h
+	<cmath>
+	<vector>
+	<iostream>
+
+1680444609 c:\users\maira\documents\kcl coursework\6ccs3prj\program\include\matplotlibcpp.h
+	<algorithm>
+	<array>
+	<cstdint>
+	<functional>
+	<iostream>
+	<map>
+	<numeric>
+	<stdexcept>
+	<vector>
+	<sstream>
+	<Python.h>
+	<numpy/arrayobject.h>
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\python.h
+	"patchlevel.h"
+	"pyconfig.h"
+	"pymacconfig.h"
+	<limits.h>
+	<stdio.h>
+	<string.h>
+	<errno.h>
+	<stdlib.h>
+	<unistd.h>
+	<crypt.h>
+	<stddef.h>
+	<assert.h>
+	"pyport.h"
+	"pymacro.h"
+	"pymath.h"
+	"pytime.h"
+	"pymem.h"
+	"object.h"
+	"objimpl.h"
+	"typeslots.h"
+	"pyhash.h"
+	"pydebug.h"
+	"bytearrayobject.h"
+	"bytesobject.h"
+	"unicodeobject.h"
+	"longobject.h"
+	"longintrepr.h"
+	"boolobject.h"
+	"floatobject.h"
+	"complexobject.h"
+	"rangeobject.h"
+	"memoryobject.h"
+	"tupleobject.h"
+	"listobject.h"
+	"dictobject.h"
+	"odictobject.h"
+	"enumobject.h"
+	"setobject.h"
+	"methodobject.h"
+	"moduleobject.h"
+	"funcobject.h"
+	"classobject.h"
+	"fileobject.h"
+	"pycapsule.h"
+	"traceback.h"
+	"sliceobject.h"
+	"cellobject.h"
+	"iterobject.h"
+	"genobject.h"
+	"descrobject.h"
+	"warnings.h"
+	"weakrefobject.h"
+	"structseq.h"
+	"namespaceobject.h"
+	"picklebufobject.h"
+	"codecs.h"
+	"pyerrors.h"
+	"cpython/initconfig.h"
+	"pystate.h"
+	"context.h"
+	"pyarena.h"
+	"modsupport.h"
+	"compile.h"
+	"pythonrun.h"
+	"pylifecycle.h"
+	"ceval.h"
+	"sysmodule.h"
+	"osmodule.h"
+	"intrcheck.h"
+	"import.h"
+	"abstract.h"
+	"bltinmodule.h"
+	"eval.h"
+	"pyctype.h"
+	"pystrtod.h"
+	"pystrcmp.h"
+	"dtoa.h"
+	"fileutils.h"
+	"pyfpe.h"
+	"tracemalloc.h"
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\patchlevel.h
+
+1620042844 c:\users\maira\appdata\local\programs\python\python38\include\pyconfig.h
+	<io.h>
+	<float.h>
+	<basetsd.h>
+	<stdio.h>
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\pymacconfig.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\pyport.h
+	"pyconfig.h"
+	<inttypes.h>
+	<stdlib.h>
+	<ieeefp.h>
+	<math.h>
+	<sys/time.h>
+	<time.h>
+	<sys/time.h>
+	<time.h>
+	<sys/select.h>
+	<sys/stat.h>
+	<stat.h>
+	<sys/types.h>
+	<sys/termio.h>
+	<ctype.h>
+	<wctype.h>
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\pymacro.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\pymath.h
+	"pyconfig.h"
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\pytime.h
+	"pyconfig.h"
+	"object.h"
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\object.h
+	"pymem.h"
+	"cpython/object.h"
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\pymem.h
+	"pyport.h"
+	"cpython/pymem.h"
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\cpython\pymem.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\cpython\object.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\objimpl.h
+	"pymem.h"
+	"cpython/objimpl.h"
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\cpython\objimpl.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\typeslots.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\pyhash.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\pydebug.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\bytearrayobject.h
+	<stdarg.h>
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\bytesobject.h
+	<stdarg.h>
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\unicodeobject.h
+	<stdarg.h>
+	<ctype.h>
+	<wchar.h>
+	"cpython/unicodeobject.h"
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\cpython\unicodeobject.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\longobject.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\longintrepr.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\boolobject.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\floatobject.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\complexobject.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\rangeobject.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\memoryobject.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\tupleobject.h
+	"cpython/tupleobject.h"
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\cpython\tupleobject.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\listobject.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\dictobject.h
+	"cpython/dictobject.h"
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\cpython\dictobject.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\odictobject.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\enumobject.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\setobject.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\methodobject.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\moduleobject.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\funcobject.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\classobject.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\fileobject.h
+	"cpython/fileobject.h"
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\cpython\fileobject.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\pycapsule.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\traceback.h
+	"cpython/traceback.h"
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\cpython\traceback.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\sliceobject.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\cellobject.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\iterobject.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\genobject.h
+	"pystate.h"
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\pystate.h
+	"pythread.h"
+	"cpython/pystate.h"
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\pythread.h
+	<pthread.h>
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\cpython\pystate.h
+	"cpython/initconfig.h"
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\cpython\initconfig.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\descrobject.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\warnings.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\weakrefobject.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\structseq.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\namespaceobject.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\picklebufobject.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\codecs.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\pyerrors.h
+	<stdarg.h>
+	"cpython/pyerrors.h"
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\cpython\pyerrors.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\context.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\pyarena.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\modsupport.h
+	<stdarg.h>
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\compile.h
+	"code.h"
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\code.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\pythonrun.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\pylifecycle.h
+	"cpython/pylifecycle.h"
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\cpython\pylifecycle.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\ceval.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\sysmodule.h
+	"cpython/sysmodule.h"
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\cpython\sysmodule.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\osmodule.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\intrcheck.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\import.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\abstract.h
+	"cpython/abstract.h"
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\cpython\abstract.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\bltinmodule.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\eval.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\pyctype.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\pystrtod.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\pystrcmp.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\dtoa.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\fileutils.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\pyfpe.h
+
+1620042842 c:\users\maira\appdata\local\programs\python\python38\include\tracemalloc.h
+
+1668877386 c:\users\maira\appdata\local\programs\python\python38\lib\site-packages\numpy\core\include\numpy\arrayobject.h
+	"ndarrayobject.h"
+	"npy_interrupt.h"
+	"noprefix.h"
+
+1668877386 c:\users\maira\appdata\local\programs\python\python38\lib\site-packages\numpy\core\include\numpy\ndarrayobject.h
+	<Python.h>
+	"ndarraytypes.h"
+	"__multiarray_api.h"
+
+1668877386 c:\users\maira\appdata\local\programs\python\python38\lib\site-packages\numpy\core\include\numpy\ndarraytypes.h
+	"npy_common.h"
+	"npy_endian.h"
+	"npy_cpu.h"
+	"utils.h"
+	"_neighborhood_iterator_imp.h"
+	"npy_1_7_deprecated_api.h"
+
+1668877386 c:\users\maira\appdata\local\programs\python\python38\lib\site-packages\numpy\core\include\numpy\npy_common.h
+	<Python.h>
+	"numpyconfig.h"
+	<npy_config.h>
+	<io.h>
+	<sys/types.h>
+	<inttypes.h>
+	<limits.h>
+
+1668877386 c:\users\maira\appdata\local\programs\python\python38\lib\site-packages\numpy\core\include\numpy\numpyconfig.h
+	"_numpyconfig.h"
+
+1668877386 c:\users\maira\appdata\local\programs\python\python38\lib\site-packages\numpy\core\include\numpy\_numpyconfig.h
+
+1668877386 c:\users\maira\appdata\local\programs\python\python38\lib\site-packages\numpy\core\include\numpy\npy_endian.h
+	<endian.h>
+	<sys/endian.h>
+	"npy_cpu.h"
+
+1668877386 c:\users\maira\appdata\local\programs\python\python38\lib\site-packages\numpy\core\include\numpy\npy_cpu.h
+	"numpyconfig.h"
+
+1668877386 c:\users\maira\appdata\local\programs\python\python38\lib\site-packages\numpy\core\include\numpy\utils.h
+
+1668877386 c:\users\maira\appdata\local\programs\python\python38\lib\site-packages\numpy\core\include\numpy\_neighborhood_iterator_imp.h
+
+1668877386 c:\users\maira\appdata\local\programs\python\python38\lib\site-packages\numpy\core\include\numpy\npy_1_7_deprecated_api.h
+	"old_defines.h"
+
+1668877386 c:\users\maira\appdata\local\programs\python\python38\lib\site-packages\numpy\core\include\numpy\old_defines.h
+
+1668877386 c:\users\maira\appdata\local\programs\python\python38\lib\site-packages\numpy\core\include\numpy\__multiarray_api.h
+
+1668877386 c:\users\maira\appdata\local\programs\python\python38\lib\site-packages\numpy\core\include\numpy\npy_interrupt.h
+	<setjmp.h>
+	<signal.h>
+
+1668877386 c:\users\maira\appdata\local\programs\python\python38\lib\site-packages\numpy\core\include\numpy\noprefix.h
+	"ndarrayobject.h"
+	"npy_interrupt.h"
+
